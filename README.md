@@ -2,7 +2,7 @@
 
 ## Dataset
 
-* [CIFAP-10](http://www.cs.toronto.edu/~kriz/cifar.html)
+* [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Requirements
 
